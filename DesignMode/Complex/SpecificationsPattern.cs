@@ -78,7 +78,7 @@ namespace ComplexDesignMode
     //规格书：特殊的组合模式组织结构+策略模式的使用方式，实现简单的连缀运算，分为业务规格和组合规格
     public class SpecificationsPattern
     {
-        
+        /*
         static void Main(string[] args)
         {
             List<SpecParam> list = new List<SpecParam>
@@ -103,6 +103,6 @@ namespace ComplexDesignMode
             }
             Console.ReadLine();
         }
-        
+        */
     }
 }

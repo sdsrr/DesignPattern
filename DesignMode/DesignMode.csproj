@@ -47,6 +47,7 @@
     <Compile Include="AdpterPattern.cs" />
     <Compile Include="Base\BridgePattern.cs" />
     <Compile Include="Base\CommandPattern.cs" />
+    <Compile Include="Complex\SinglePattern.cs" />
     <Compile Include="Complex\SpecificationsPattern.cs" />
     <Compile Include="Project\MVC.cs" />
     <Compile Include="Project\ObserverFactory.cs" />
