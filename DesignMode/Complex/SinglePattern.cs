@@ -25,13 +25,13 @@ namespace Complex
     //问题是无法保证SimpleClass唯一，因为外部也可以使用new创建
     public class SinglePattern
     {
-
+        /*
         static void Main(string[] args)
         {
             SimpleClass instance = SingleManager<SimpleClass>.GetInstance();
             instance.Call();
             Console.ReadLine();
         }
-
+        */
     }
 }
